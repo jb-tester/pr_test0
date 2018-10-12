@@ -8,4 +8,12 @@ package a.b.c;
  */
 public class Foo1 {
     String jbt;
+
+    public String getJbt() {
+        return jbt;
+    }
+
+    public void setJbt(String jbt) {
+        this.jbt = jbt;
+    }
 }
