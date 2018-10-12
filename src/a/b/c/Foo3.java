@@ -8,5 +8,8 @@ package a.b.c;
  */
 public class Foo3 {
 
-
+    @Override
+    public String toString() {
+        return "Foo3";
+    }
 }
