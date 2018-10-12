@@ -10,7 +10,7 @@ public class Foo1 {
     /**
      * property added by jb-tester
      */
-    String jbt;
+    private String jbt;
 
     public String getJbt() {
         return jbt;
