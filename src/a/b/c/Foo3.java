@@ -12,6 +12,6 @@ public class Foo3 {
 
     @Override
     public String toString() {
-        return "Foo3";
+        return "Foo3: " + "prop1='" + prop1 + '\'' + ' ';
     }
 }
