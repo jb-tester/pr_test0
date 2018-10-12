@@ -7,6 +7,9 @@ package a.b.c;
  * *******************************
  */
 public class Foo1 {
+    /**
+     * property added by jb-tester
+     */
     String jbt;
 
     public String getJbt() {
