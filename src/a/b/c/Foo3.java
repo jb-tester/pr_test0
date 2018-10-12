@@ -8,6 +8,8 @@ package a.b.c;
  */
 public class Foo3 {
 
+    String prop1;
+
     @Override
     public String toString() {
         return "Foo3";
